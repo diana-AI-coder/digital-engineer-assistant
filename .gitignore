@@ -1,0 +1,11 @@
+# mdrack индексы
+.mdrack/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ОС
+Thumbs.db
+.DS_Store
