@@ -9,3 +9,7 @@ __pycache__/
 # ОС
 Thumbs.db
 .DS_Store
+
+# Логи MCP-сервера
+mcp_server.log
+mcp_server.err
